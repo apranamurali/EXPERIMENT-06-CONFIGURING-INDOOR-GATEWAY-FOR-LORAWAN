@@ -1,6 +1,6 @@
 # EXPERIMENT-06-CONFIGURING-INDOOR-GATEWAY-FOR-LORAWAN
 ## DATE:29/08/26
-## Name : APARNA.M
+## NAME: APARNA
 ## Aim: 
 
 To  configure  Dragino LPS8 Indoor LoRaWAN gateway for things  network .
@@ -115,9 +115,7 @@ The frequency band is allocated now. Now we need to get the Gateway ID. To get t
 
 ![image](https://github.com/user-attachments/assets/540c1f70-d212-4ee4-b757-357ce45946c1)
 
-17.Click on save & apply. So finally the setting up of LPS8 Dragino LoRaWAN Gateway completes.
-
-
+17.Click on save & apply. So finally the setting up of LPS8 Dragino LoRaWAN Gateway completes
 
 ## OUTPUT 
 
